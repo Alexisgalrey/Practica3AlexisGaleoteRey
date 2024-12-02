@@ -53,6 +53,8 @@ public class MiVector {
             aux [i] = this.v[i];
                     }
         this.tam ++;
+
+        //dd
     }
 
     public void muestraContenido() {
@@ -70,7 +72,6 @@ public class MiVector {
     public void vaciarArray() {
         v = new int[0];
     }
-
 }
 
 

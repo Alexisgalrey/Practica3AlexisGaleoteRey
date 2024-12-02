@@ -54,7 +54,6 @@ public class MiVector {
                     }
         this.tam ++;
 
-        //dd
     }
 
     public void muestraContenido() {
